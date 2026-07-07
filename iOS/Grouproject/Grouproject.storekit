@@ -1,0 +1,40 @@
+{
+  "identifier" : "GrouprojectProducts",
+  "nonRenewingSubscriptions" : [],
+  "products" : [],
+  "settings" : {},
+  "subscriptionGroups" : [
+    {
+      "id" : "grouproject_group",
+      "localizations" : [],
+      "name" : "Grouproject Pro",
+      "subscriptions" : [
+        {
+          "adHocOffers" : [],
+          "codeOffers" : [],
+          "displayPrice" : "1.99",
+          "familyShareable" : false,
+          "groupNumber" : 1,
+          "internalID" : "grouproject_pro_monthly",
+          "introductoryOffer" : null,
+          "localizations" : [
+            {
+              "description" : "Deadline reminders per task owner",
+              "displayName" : "Grouproject Pro",
+              "locale" : "en_US"
+            }
+          ],
+          "productID" : "com.shimondeitel.grouproject.pro.monthly",
+          "recurringSubscriptionPeriod" : "P1M",
+          "referenceName" : "Grouproject Pro Monthly",
+          "subscriptionGroupID" : "grouproject_group",
+          "type" : "RecurringSubscription"
+        }
+      ]
+    }
+  ],
+  "version" : {
+    "major" : 3,
+    "minor" : 0
+  }
+}
